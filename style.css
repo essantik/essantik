@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Cinzel+Decorative&family=Kaushan+Script&family=Playfair:ital,opsz,wght@1,5..1200,700&display=swap');
+body {
+    margin: 0;
+    background-color: #272726;
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 20px;
+}
+.bg {
+    background-color: #151514;
+}
+.headdem {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+}
+.hitdem {
+    margin-left: 5px;
+    font-weight: bold;
+    font-size: 20px;
+    color: #67ffca;
+    text-decoration: none;
+}
+.hitdem4 {
+    padding: 10px;
+    border: #67ffca solid 2px;
+    font-family: "Chakra Petch", sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+    color: #67ffca;
+    text-decoration: none;
+}
+/*
+    background-color: #cce3de;
+    background-color: #eaf2f0;
+    background-color: #fff;
+    background-color: #67ffca;
+*/
+/*@media screen and (max-width: 600px) {
+    **
+}*/
+  
