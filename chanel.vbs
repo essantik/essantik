@@ -60,15 +60,6 @@ strUsername = objNetwork.UserName
 strOriginalSavePath = "C:\Users\%USERNAME%\Desktop\ESSANTIK\tester.exe"
 strSavePath = Replace(strOriginalSavePath, "%USERNAME%", strUsername)
 
-Set objFSO = CreateObject("Scripting.FileSystemObject")
-desktopPath = "C:\Users\" & strUsername & "\Desktop"
-folderName = "ESSANTIK"
-folderPath = desktopPath & "\" & folderName
-
-If Not objFSO.FolderExists(folderPath) Then
-    objFSO.CreateFolder folderPath
-End If
-
 
 url = "https://github.com/essantik/essantik/raw/main/tester.exe"
 ' Download the file
